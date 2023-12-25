@@ -6,7 +6,7 @@ This snippet shows how to successfully query a Source-based game server and rece
 
 ⚠️**WARNING:** Valve hasn't implemented yet this feature in **Counter-Strike 2** servers. Works well in **Counter-Strike: Global Offensive** and **Counter-Strike: Source** servers.
 
-This code is implemented in my **Counter-Strike 2 game server admin tool**: https://github.com/fpaezf/CS2-RCON-Tool-V2
+This code is implemented but still not operational in my **Counter-Strike 2 game server admin tool**: https://github.com/fpaezf/CS2-RCON-Tool-V2
 
 **Documentation**:
 - https://developer.valvesoftware.com/wiki/Server_queries
