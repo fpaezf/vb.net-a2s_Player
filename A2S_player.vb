@@ -58,6 +58,10 @@ Public Class A2S_player
                 'Show player data
                 MsgBox(index & ":" & Name & ":" & Score.ToString & ":" & Duration.ToString)
             Next
+        stream.Close()
+        stream.Dispose()
+        reader.Close()
+        reader.Dispose()
         End Using
     End Sub
 
